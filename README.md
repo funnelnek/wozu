@@ -1,3 +1,3 @@
-# WozU First Repo
+# WozU SDET Bootcamp
 
-This is our Git repository
+An 8-week Software Development Engineer in Test bootcamp.
